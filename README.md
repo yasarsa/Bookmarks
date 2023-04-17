@@ -2,6 +2,7 @@
 
 This document contains various blog posts, technical writings, written answers to questions, and resources that could be helpful in one way or another.
 
+Feel free to expand this list by adding links to useful materials all around the web. [This markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) could help you with editing this markdown file.
 
 ## Content
 
