@@ -91,6 +91,7 @@ Technical
 * [Is software getting worse?](https://stackoverflow.blog/2023/01/30/is-software-getting-worse/)
 * [Coding 102: Writing code other people can read](https://stackoverflow.blog/2023/02/13/coding-102-writing-code-other-people-can-read/?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter)
 * [Stop saying "tech debt"](https://stackoverflow.blog/2023/02/27/stop-saying-technical-debt/)
+* [Git is my buddy: Effective Git as a solo developer](https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/)
 
 ## JavaScript
 
