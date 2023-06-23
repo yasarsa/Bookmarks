@@ -93,6 +93,7 @@ Technical
 * [Stop saying "tech debt"](https://stackoverflow.blog/2023/02/27/stop-saying-technical-debt/)
 * [Git is my buddy: Effective Git as a solo developer](https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/)
 * [Cognitive Load](https://github.com/zakirullin/cognitive-load)
+* [Hashing](https://samwho.dev/hashing/)
 
 ## JavaScript
 
