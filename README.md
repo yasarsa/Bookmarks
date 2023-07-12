@@ -33,6 +33,7 @@ Technical
 * [Machine Learning Articles from Christian Versloot](https://github.com/christianversloot/machine-learning-articles)
 * [How Web Works](https://github.com/vasanthk/how-web-works)
 * [Papers We Love](https://github.com/papers-we-love/papers-we-love)
+* [Laws of UX](https://lawsofux.com/)
 
 ## Frontend
 
