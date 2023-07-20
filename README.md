@@ -65,6 +65,7 @@ Technical
 * [How Discord Stores Billions of Messages](https://discord.com/blog/how-discord-stores-billions-of-messages)
 * [Things You Should Know About Databases](https://architecturenotes.co/things-you-should-know-about-databases/)
 * [System Design Series](https://dev.to/karanpratapsingh/series/19332)
+* [Database 101: Data Consistency for Beginners](https://dev.to/danielhe4rt/database-101-why-so-interesting-1344)
 
 ### AWS
 
