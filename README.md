@@ -96,6 +96,7 @@ Technical
 * [Git is my buddy: Effective Git as a solo developer](https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/)
 * [Cognitive Load](https://github.com/zakirullin/cognitive-load)
 * [Hashing](https://samwho.dev/hashing/)
+* [Dependency Injection, The Best Pattern](https://www.youtube.com/watch?v=J1f5b4vcxCQ)
 
 ## JavaScript
 
