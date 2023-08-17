@@ -58,6 +58,7 @@ Technical
 * [The Ultimate Guide to Electron with React](https://medium.com/folkdevelopers/the-ultimate-guide-to-electron-with-react-8df8d73f4c97)
 * [How to Detect Slow Renders in React?](https://alexsidorenko.com/blog/react-performance-slow-renders/)
 * [A Collection of Awesome Things Regarding React](https://github.com/enaqx/awesome-react)
+* [Things you forgot (or never knew) because of React](https://joshcollinsworth.com/blog/antiquated-react)
   
 ## Backend
 
