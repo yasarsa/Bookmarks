@@ -34,6 +34,7 @@ Technical
 * [How Web Works](https://github.com/vasanthk/how-web-works)
 * [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 * [Laws of UX](https://lawsofux.com/)
+* [Realtime Colors](https://realtimecolors.com/?colors=000000-ffffff-ff0020-ebf1ff-d41d6d)
 
 ## Frontend
 
