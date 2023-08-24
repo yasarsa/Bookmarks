@@ -119,6 +119,7 @@ Non-Technical
 * [Why writing by hand is still the best way to retain information?](https://stackoverflow.blog/2022/11/23/why-writing-by-hand-is-still-the-best-way-to-retain-information/)
 * [An engineering leader’s guide to tackling change](https://leaddev.com/team/engineering-leaders-guide-tackling-change)
 * [Conway's Law](https://martinfowler.com/bliki/ConwaysLaw.html)
+* [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 
 Uncategorized
 ======
