@@ -1,4 +1,4 @@
-# Reading List
+# Bookmarks
 
 This document contains various blog posts, technical writings, written answers to questions, and resources that could be helpful in one way or another.
 
