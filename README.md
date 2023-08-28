@@ -99,6 +99,7 @@ Technical
 * [Cognitive Load](https://github.com/zakirullin/cognitive-load)
 * [Hashing](https://samwho.dev/hashing/)
 * [Dependency Injection, The Best Pattern](https://www.youtube.com/watch?v=J1f5b4vcxCQ)
+* [UX Design patterns for Loading](https://pencilandpaper.io/articles/ux-pattern-analysis-loading-feedback/)
 
 ## JavaScript
 
