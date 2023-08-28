@@ -120,6 +120,7 @@ Non-Technical
 * [An engineering leader’s guide to tackling change](https://leaddev.com/team/engineering-leaders-guide-tackling-change)
 * [Conway's Law](https://martinfowler.com/bliki/ConwaysLaw.html)
 * [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
+* [Seven Sins of Writing](https://www.hamilton.edu/academics/centers/writing/seven-sins-of-writing)
 
 Uncategorized
 ======
