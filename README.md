@@ -68,6 +68,8 @@ Technical
 * [Things You Should Know About Databases](https://architecturenotes.co/things-you-should-know-about-databases/)
 * [System Design Series](https://dev.to/karanpratapsingh/series/19332)
 * [Database 101: Data Consistency for Beginners](https://dev.to/danielhe4rt/database-101-why-so-interesting-1344)
+* [RabbitMQ vs Kafka - An Architect's Dilemma (Part1)](https://eranstiller.com/rabbitmq-vs-kafka-an-architects-dilemma-part-1)
+* [RabbitMQ vs Kafka - An Architect's Dilemma (Part2)](https://eranstiller.com/rabbitmq-vs-kafka-an-architects-dilemma-part-2)
 
 ### AWS
 
