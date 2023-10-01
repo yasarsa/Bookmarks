@@ -105,6 +105,7 @@ Technical
 * [Small Details to Improve Your Website's Experience](https://dev.to/alvaromontoro/small-details-to-improve-your-websites-experience-hio)
 * [Death by a thousand microservices](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html)
 * [The Tao of Programming](https://www.mit.edu/~xela/tao.html)
+* [2023 DevOps is terrible](https://abidmoon.hashnode.dev/2023-devops-is-terrible)
 
 ## JavaScript
 
