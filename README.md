@@ -128,6 +128,7 @@ Non-Technical
 * [Conway's Law](https://martinfowler.com/bliki/ConwaysLaw.html)
 * [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 * [Seven Sins of Writing](https://www.hamilton.edu/academics/centers/writing/seven-sins-of-writing)
+* [How to add documentation to your product life cycle](https://thisisimportant.net/posts/process-models-for-documentation/)
 
 Uncategorized
 ======
