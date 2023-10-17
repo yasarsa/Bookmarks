@@ -129,6 +129,7 @@ Non-Technical
 * [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 * [Seven Sins of Writing](https://www.hamilton.edu/academics/centers/writing/seven-sins-of-writing)
 * [How to add documentation to your product life cycle](https://thisisimportant.net/posts/process-models-for-documentation/)
+* [How to burnout a software engineer, in 3 easy steps](https://engineercodex.substack.com/p/how-to-burnout-a-software-engineer)
 
 Uncategorized
 ======
