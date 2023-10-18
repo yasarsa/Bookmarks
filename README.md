@@ -70,6 +70,7 @@ Technical
 * [Database 101: Data Consistency for Beginners](https://dev.to/danielhe4rt/database-101-why-so-interesting-1344)
 * [RabbitMQ vs Kafka - An Architect's Dilemma (Part1)](https://eranstiller.com/rabbitmq-vs-kafka-an-architects-dilemma-part-1)
 * [RabbitMQ vs Kafka - An Architect's Dilemma (Part2)](https://eranstiller.com/rabbitmq-vs-kafka-an-architects-dilemma-part-2)
+* [Microservices without reason](https://www.felixseemann.de/blog/microservices-without-reason/)
 
 ### AWS
 
