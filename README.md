@@ -14,6 +14,7 @@ Feel free to expand this list by adding links to useful materials all around the
      * [AWS](#aws)
    * [Best Practices](#best-practices)
    * [JavaScript](#javascript)
+   * [TypeScript](#typescript)
 2) [Non-Technical](#non-technical)
 3) [Uncategorized](#uncategorized)
 
@@ -116,6 +117,14 @@ Technical
 * [7 neat tricks for JS that you probably did not know](https://dev.to/ruppysuppy/7-neat-tricks-for-js-that-you-probably-did-not-know-358d)
 * [I Re-Wrote These 10+ Single Lines of JavaScript Code](https://dev.to/rida/i-re-wrote-these-10-single-lines-of-javascript-code-the-team-lead-praised-the-code-for-being-elegant-ec)
 * [11 Tips That Make You a Better Typescript Programmer](https://dev.to/zenstack/11-tips-that-help-you-become-a-better-typescript-programmer-4ca1)
+
+
+## TypeScript
+
+ * [2 ways Typescript LIES to you](https://www.youtube.com/watch?v=u1WmiqlrqL0)
+ * [Type Challenges](https://github.com/type-challenges/type-challenges)
+ * [Flappy Bird Implemented in Typescript types](https://zackoverflow.dev/writing/flappy-bird-in-type-level-typescript/)
+
 
 Non-Technical
 ======
