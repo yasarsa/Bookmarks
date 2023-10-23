@@ -140,6 +140,7 @@ Non-Technical
 * [Seven Sins of Writing](https://www.hamilton.edu/academics/centers/writing/seven-sins-of-writing)
 * [How to add documentation to your product life cycle](https://thisisimportant.net/posts/process-models-for-documentation/)
 * [How to burnout a software engineer, in 3 easy steps](https://engineercodex.substack.com/p/how-to-burnout-a-software-engineer)
+* [Engineering Management Checklist](https://pnewman.org/engineering_mgmt_checklist.txt)
 
 Uncategorized
 ======
