@@ -141,6 +141,7 @@ Non-Technical
 * [How to add documentation to your product life cycle](https://thisisimportant.net/posts/process-models-for-documentation/)
 * [How to burnout a software engineer, in 3 easy steps](https://engineercodex.substack.com/p/how-to-burnout-a-software-engineer)
 * [Engineering Management Checklist](https://pnewman.org/engineering_mgmt_checklist.txt)
+* [The Startup CTO's Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
 
 Uncategorized
 ======
