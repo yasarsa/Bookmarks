@@ -46,6 +46,7 @@ Technical
 * [Optimal Images in HTML](https://dev.to/builderio/optimal-images-in-html-5bg9)
 * [Demystifying the front-end architect role](https://leaddev.com/team/demystifying-front-end-architect-role)
 * [The Market for Lemons](https://infrequently.org/2023/02/the-market-for-lemons/)
+* [Naming Variables in CSS](https://jwdallas.com/posts/namingcssvariables/)
 
 ### React
 
