@@ -36,6 +36,7 @@ Technical
 * [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 * [Laws of UX](https://lawsofux.com/)
 * [Realtime Colors](https://realtimecolors.com/?colors=000000-ffffff-ff0020-ebf1ff-d41d6d)
+* [Top 5 Github repositories to achieve system design mastery](https://dev.to/kumarkalyan/top-5-github-repositories-to-achieve-system-design-mastery-27n4)
 
 ## Frontend
 
