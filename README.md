@@ -110,6 +110,8 @@ Technical
 * [Death by a thousand microservices](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html)
 * [The Tao of Programming](https://www.mit.edu/~xela/tao.html)
 * [2023 DevOps is terrible](https://abidmoon.hashnode.dev/2023-devops-is-terrible)
+* [Parse Don't Validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
+* [Confusing git terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/)
 
 ## JavaScript
 
