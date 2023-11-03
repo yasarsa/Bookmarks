@@ -153,3 +153,4 @@ Uncategorized
 * [LLM Introduction: Learn Language Models](https://gist.github.com/yasarsa/3565fcceacaaa5658a7907cdca220b17)
 * [Cramming 'Papers, Please' Onto Phones](https://dukope.com/devlogs/papers-please/mobile/)
 * [A Philosophy of Software Design - Book Summary & Notes](https://elvischidera.com/2022-04-29-philosphy-software-design)
+* [How Bear does analytics with CSS](https://herman.bearblog.dev/how-bear-does-analytics-with-css/#tldr)
