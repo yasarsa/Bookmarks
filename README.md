@@ -123,6 +123,7 @@ Technical
 * [7 neat tricks for JS that you probably did not know](https://dev.to/ruppysuppy/7-neat-tricks-for-js-that-you-probably-did-not-know-358d)
 * [I Re-Wrote These 10+ Single Lines of JavaScript Code](https://dev.to/rida/i-re-wrote-these-10-single-lines-of-javascript-code-the-team-lead-praised-the-code-for-being-elegant-ec)
 * [11 Tips That Make You a Better Typescript Programmer](https://dev.to/zenstack/11-tips-that-help-you-become-a-better-typescript-programmer-4ca1)
+* [Promises From The Ground Up](https://www.joshwcomeau.com/javascript/promises/)
 
 
 ## TypeScript
