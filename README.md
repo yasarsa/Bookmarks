@@ -149,6 +149,7 @@ Non-Technical
 * [How to burnout a software engineer, in 3 easy steps](https://engineercodex.substack.com/p/how-to-burnout-a-software-engineer)
 * [Engineering Management Checklist](https://pnewman.org/engineering_mgmt_checklist.txt)
 * [The Startup CTO's Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
+* [Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games)
 
 Uncategorized
 ======
