@@ -114,6 +114,7 @@ Technical
 * [Parse Don't Validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 * [Confusing git terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/)
 * [Should you add screenshots to documentation?](https://thisisimportant.net/posts/screenshots-in-documentation/)
+* [Good Refactoring vs Bad Refactoring](https://www.builder.io/blog/good-vs-bad-refactoring)
 
 ## JavaScript
 
