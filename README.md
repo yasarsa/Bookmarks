@@ -116,6 +116,7 @@ Technical
 * [Should you add screenshots to documentation?](https://thisisimportant.net/posts/screenshots-in-documentation/)
 * [Good Refactoring vs Bad Refactoring](https://www.builder.io/blog/good-vs-bad-refactoring)
 * [On over-engineering; finding the right balance](https://www.16elt.com/2024/09/07/future-proof-code/)
+* [TypeScript Style Guide](https://mkosir.github.io/typescript-style-guide/)
 
 ## JavaScript
 
