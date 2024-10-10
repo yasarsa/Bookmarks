@@ -155,6 +155,8 @@ Non-Technical
 * [Engineering Management Checklist](https://pnewman.org/engineering_mgmt_checklist.txt)
 * [The Startup CTO's Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
 * [Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games)
+* [How to make Product give a shit about your architecture proposal](https://gieseanw.wordpress.com/2024/10/09/how-to-make-product-give-a-shit-about-your-architecture-proposal/)
+
 
 Uncategorized
 ======
