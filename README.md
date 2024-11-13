@@ -65,6 +65,8 @@ Technical
 * [How to Detect Slow Renders in React?](https://alexsidorenko.com/blog/react-performance-slow-renders/)
 * [A Collection of Awesome Things Regarding React](https://github.com/enaqx/awesome-react)
 * [Things you forgot (or never knew) because of React](https://joshcollinsworth.com/blog/antiquated-react)
+* [Top 25 React Tips Every Developer Should Know - Part 1](https://dev.to/myogeshchavan97/top-25-react-tips-every-developer-should-know-2ehg)
+* [Top 25 React Tips Every Developer Should Know — Part 2](https://dev.to/myogeshchavan97/top-25-react-tips-every-developer-should-know-part-2-2ba7)
   
 ## Backend
 
