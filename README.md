@@ -39,6 +39,7 @@ Technical
 * [Top 5 Github repositories to achieve system design mastery](https://dev.to/kumarkalyan/top-5-github-repositories-to-achieve-system-design-mastery-27n4)
 * [Technically We Write](https://technicallywewrite.com/)
 * [Gamedev.city](https://gamedev.city/)
+* [Website Design Examples for Inspiration](https://websitevice.com/)
 
 ## Frontend
 
