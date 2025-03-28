@@ -171,3 +171,5 @@ Uncategorized
 * [A Philosophy of Software Design - Book Summary & Notes](https://elvischidera.com/2022-04-29-philosphy-software-design)
 * [How Bear does analytics with CSS](https://herman.bearblog.dev/how-bear-does-analytics-with-css/#tldr)
 * [Cover Your Tracks](https://coveryourtracks.eff.org/)
+* [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model)
+
