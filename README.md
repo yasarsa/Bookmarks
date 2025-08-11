@@ -40,6 +40,7 @@ Technical
 * [Technically We Write](https://technicallywewrite.com/)
 * [Gamedev.city](https://gamedev.city/)
 * [Website Design Examples for Inspiration](https://websitevice.com/)
+* [Front End Quiz Questions](https://www.greatfrontend.com/questions/formats/quiz)
 
 ## Frontend
 
