@@ -161,6 +161,7 @@ Non-Technical
 * [Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games)
 * [How to make Product give a shit about your architecture proposal](https://gieseanw.wordpress.com/2024/10/09/how-to-make-product-give-a-shit-about-your-architecture-proposal/)
 * [Motivating your team when promotions are frozen](https://leaddev.com/leadership/motivating-your-team-when-promotions-frozen)
+* [Teknoloji Yeteneğini Elde Tutmak: Bir Yazılım Mimarının Gözünden Sistem Tasarımı Olarak Kültür](https://www.linkedin.com/pulse/teknoloji-yetene%C4%9Fini-elde-tutmak-bir-yaz%C4%B1l%C4%B1m-g%C3%B6z%C3%BCnden-karaarslan-rshpf/)
 
 
 Uncategorized
