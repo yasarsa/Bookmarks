@@ -81,6 +81,7 @@ Technical
 * [RabbitMQ vs Kafka - An Architect's Dilemma (Part2)](https://eranstiller.com/rabbitmq-vs-kafka-an-architects-dilemma-part-2)
 * [Microservices without reason](https://www.felixseemann.de/blog/microservices-without-reason/)
 * [Understanding CORS](https://n0rdy.foo/posts/20240103/understanding-cors/)
+* [ Frontend to Backend: From Vite to Express](https://dev.to/cristea_theodora_6200140b/frontend-to-backend-from-vite-to-express-2c83?)
 
 ### AWS
 
