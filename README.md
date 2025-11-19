@@ -69,6 +69,7 @@ Technical
 * [Things you forgot (or never knew) because of React](https://joshcollinsworth.com/blog/antiquated-react)
 * [Top 25 React Tips Every Developer Should Know - Part 1](https://dev.to/myogeshchavan97/top-25-react-tips-every-developer-should-know-2ehg)
 * [Top 25 React Tips Every Developer Should Know — Part 2](https://dev.to/myogeshchavan97/top-25-react-tips-every-developer-should-know-part-2-2ba7)
+* [ React Hooks Interview Mastery — From Quiz Answers to Senior-Level Patterns ](https://dev.to/cristiansifuentes/react-hooks-interview-mastery-from-quiz-answers-to-senior-level-patterns-2hcc)
   
 ## Backend
 
