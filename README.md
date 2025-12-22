@@ -168,6 +168,7 @@ Non-Technical
 * [Teknoloji Yeteneğini Elde Tutmak: Bir Yazılım Mimarının Gözünden Sistem Tasarımı Olarak Kültür](https://www.linkedin.com/pulse/teknoloji-yetene%C4%9Fini-elde-tutmak-bir-yaz%C4%B1l%C4%B1m-g%C3%B6z%C3%BCnden-karaarslan-rshpf/)
 * [Stop Avoiding Politics](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/)
 * [Seeing like a software company](https://www.seangoedecke.com/seeing-like-a-software-company/)
+* [You’re Not Burnt Out. You’re Existentially Starving.](https://neilthanedar.com/youre-not-burnt-out-youre-existentially-starving/)
 
 
 Uncategorized
