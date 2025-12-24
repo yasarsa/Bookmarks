@@ -126,6 +126,7 @@ Technical
 * [On over-engineering; finding the right balance](https://www.16elt.com/2024/09/07/future-proof-code/)
 * [TypeScript Style Guide](https://mkosir.github.io/typescript-style-guide/)
 * [The least amount of CSS for a decent looking site](https://thecascade.dev/article/least-amount-of-css/)
+* [Mean Time to Understanding 🤔: The Irreducible Human Element in the Age of Infinite Code 🤖.](https://dev.to/grahamthedev/mean-time-to-understanding-the-irreducible-human-element-in-the-age-of-infinite-code--i2o)
 
 
 ## JavaScript
