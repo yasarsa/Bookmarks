@@ -170,6 +170,7 @@ Non-Technical
 * [Stop Avoiding Politics](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/)
 * [Seeing like a software company](https://www.seangoedecke.com/seeing-like-a-software-company/)
 * [You’re Not Burnt Out. You’re Existentially Starving.](https://neilthanedar.com/youre-not-burnt-out-youre-existentially-starving/)
+* [Things I’ve learned in my 10 years as an engineering manager](https://www.jampa.dev/p/lessons-learned-after-10-years-as)
 
 
 Uncategorized
